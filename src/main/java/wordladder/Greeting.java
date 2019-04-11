@@ -6,7 +6,7 @@ import java.util.LinkedList;
 
 public class Greeting{
     public static void main(String[] args){
-        Greeting demo = new Greeting();
+        //Greeting demo = new Greeting();
     }
     public String ss(String beginw, String endw) {
         System.out.println("Please give me two English words, and I will change the first into the second by changing one letter at a time");
