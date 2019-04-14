@@ -1,5 +1,6 @@
-# SE230_Homework  HW2PH2 tag:V2.2, branch:master
-# SE230_Homework
+# SE230_Homework  HW2PH2 tag:V2.2    branch:master
+### HW2PH2 tag:V2.2, branch:master
+### 以往版本可以查看tag
 Homework Ⅱ PH2
 Spring actuator
 http://localhost:9000/actuator/  后跟actuator的endpoint名，同时自己实现了端口author
