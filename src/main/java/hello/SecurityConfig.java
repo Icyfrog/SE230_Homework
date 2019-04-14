@@ -18,7 +18,7 @@ public class SecurityConfig {
             http
                     .authorizeRequests()
                     .antMatchers(
-                            "/index"
+                            "/Ladder"
                     ).hasRole("ADMIN")
                     .anyRequest().permitAll()
                     .and()
